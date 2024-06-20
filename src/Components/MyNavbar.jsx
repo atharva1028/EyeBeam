@@ -3,7 +3,6 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPhone, faHeart, faShoppingCart } from '@fortawesome/free-solid-svg-icons';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import '../style/MyNavbar.css'
-
 library.add(faPhone, faHeart, faShoppingCart);
 
 const MyNavbar = () => {
@@ -12,7 +11,7 @@ const MyNavbar = () => {
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container-fluid">
         <a className="navbar-brand d-flex align-items-center" href="#home">
-          <img src="../public/images/logo-1.png" alt="Brand Logo" width="50" height="10" className="img-fluid d-inline-block align-text-top" />
+          <img src="/images/logo-1.png" alt="Brand Logo" width="50" height="10" className="img-fluid d-inline-block align-text-top" />
           <span className="">
             <h2 style={{color:'#467991'}}>Eyebeam</h2></span>
         </a>
