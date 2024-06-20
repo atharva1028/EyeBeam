@@ -1,0 +1,7 @@
+@media screen and (max-width:1000px){
+    .card{
+        h6{
+            font-size: xx-small;
+        }
+    }
+}
