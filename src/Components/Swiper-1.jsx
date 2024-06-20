@@ -21,13 +21,13 @@ export default function SwiperCard() {
         modules={[Navigation, Autoplay]} // Include the Autoplay module
         className="mySwiper}
       ">
-        <SwiperSlide><img src="../public/images/swip-1.gif" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="../public/images/swip-2.gif" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="../public/images/swip-3.png" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="../public/images/swip-4.png" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="../public/images/swip-5.png" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="../public/images/swip-6.png" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="../public/images/swip-7.gif" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="/images/swip-1.gif" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="/images/swip-2.gif" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="/images/swip-3.png" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="/images/swip-4.png" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="/images/swip-5.png" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="/images/swip-6.png" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="/images/swip-7.gif" alt="" /></SwiperSlide>
        
       </Swiper>
       </div>

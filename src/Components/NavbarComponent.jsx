@@ -31,9 +31,9 @@ const NavbarComponent = () => {
                 </div>
               </li> 
             ))}
-            <li><img src="../public/images/nav-1.png" alt="Brand Logo" width="70" height="30" className="d-inline-block pt-2 align-text-top" /></li>
-            <li><img src="../public/images/nav-3.png" alt="Brand Logo" width="70" height="30" className="d-inline-block pt-2 align-text-top" /></li>
-            <li><img src="../public/images/nav-2.png" alt="Brand Logo" width="70" height="30" className="d-inline-block pt-2 align-text-top" /></li>
+            <li><img src="/images/nav-1.png" alt="Brand Logo" width="70" height="30" className="d-inline-block pt-2 align-text-top" /></li>
+            <li><img src="/images/nav-3.png" alt="Brand Logo" width="70" height="30" className="d-inline-block pt-2 align-text-top" /></li>
+            <li><img src="/images/nav-2.png" alt="Brand Logo" width="70" height="30" className="d-inline-block pt-2 align-text-top" /></li>
         
           </ul>
         </div>

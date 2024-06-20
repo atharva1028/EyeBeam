@@ -18,39 +18,39 @@ const ImageSwitcher = () => {
 
             {showFirstImage ? (
                 <img
-                    src="../public/images/card-img-1.png"
+                    src="/images/card-img-1.png"
                     className="img-fluid"
                     alt="First"
                 />
             ) : (
                 <img
-                    src="../public/images/card-img-2.png"
+                    src="/images/card-img-2.png"
                     className="img-fluid"
                     alt="Second"
                 />
             )}
             {showFirstImage ? (
                 <img
-                    src="../public/images/card-img-3.png"
+                    src="/images/card-img-3.png"
                     className="img-fluid"
                     alt="First"
                 />
             ) : (
                 <img
-                    src="../public/images/card-img-6.png"
+                    src="/images/card-img-6.png"
                     className="img-fluid"
                     alt="Second"
                 />
             )}
             {showFirstImage ? (
                 <img
-                    src="../public/images/card-img-6.png"
+                    src="/images/card-img-6.png"
                     className="img-fluid"
                     alt="First"
                 />
             ) : (
                 <img
-                    src="../public/images/card-img-5.png"
+                    src="/images/card-img-5.png"
                     className="img-fluid"
                     alt="Second"
                 />
